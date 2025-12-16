@@ -1,0 +1,10 @@
+ 
+----------------------------------------
+Execution Time: Tue Dec 16 14:05:27 IST 2025
+----------------------------------------
+=== PLAGIARISM DETECTION REPORT ===
+File 1: document1.csv
+File 2: document2.csv
+Cosine Similarity Score: 0.7056
+Similarity Percentage: 70.56%
+Result: MODERATE PLAGIARISM DETECTED
